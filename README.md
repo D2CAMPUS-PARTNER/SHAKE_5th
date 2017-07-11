@@ -2,8 +2,8 @@
 
 ### 사전 준비
 
-1. [Issues]에서 동아리소개(필수) 와 PARTNERDAY(선택)를 작성해주세요.
-2. [Issues]에서 당일 자유주제로 이야기나누고 싶은 것을 남겨주세요.(선택)
+1. [Issues]에서 동아리소개(필수)와 PARTNERDAY(선택)를 작성해주세요.
+2. [Issues]에서 함께 나누고 싶은 이야기 주제를 남겨주세요. (자유주제) (선택)
 
 #### ● 동아리 소개
 
@@ -29,14 +29,14 @@
 
 #### ● 10 min TALK (자유주제발표)
 
-약 10분동안 자유주제로 이야기 나누고 싶은 부분들에 대해 발표하는 시간입니다. 동아리 운영에 대한 노하우 혹은 다른 PARTNER는 어떻게 하는지 궁금한 점, 진로 고민, 특정 기술에 대해 터득한 팁 혹은 노하우, 동아리 소개, PARTNER DAY 멤버 구함 등등 아무거나 좋습니다. PARTNER가 함께 공감하고 편하게 이야기 나눌 수 있도록 열린 주제이면 모두 환영입니다.
+함께 나누고 싶은 이야기(자유주제)를 약 10분동안 발표하는 시간입니다. 동아리 운영에 대한 노하우 혹은 다른 PARTNER는 어떻게 하는지 궁금한 점, 진로 고민, 특정 기술에 대해 터득한 팁 혹은 노하우, 동아리 소개, PARTNER DAY 멤버 구함 등 아무거나 좋습니다. PARTNER가 함께 공감하고 편하게 이야기 나눌 수 있도록 열린 주제이면 모두 환영입니다.
 
-- 신청 방법 : Issues에 [자유주제제목] 으로 제목쓰고 본문에 어떤이야기를 나누고 싶은지 적어주세요. 그리고 [10minTALK] 라벨을 달아주세요.
+- 신청 방법 : Issues에 [발표제목]으로 제목쓰고 본문에 어떤이야기를 나누고 싶은지 적어주세요. 그리고 [10minTALK] 라벨을 달아주세요.
 
 
 ### 상세일정
 
-- 일시 : 7월 21일 (금) 12:20 ~ 16:10
+- 일시 : 7월 21일 (금) 12:20 ~ 16:30
 - 장소 : D2 STARTUP FACTORY (강남 메리츠타워 16층)
 
 시간|내용
@@ -46,32 +46,39 @@
 13:30 ~ 14:00|신규 PARTNER 소개
 14:10 ~ 15:10|10 min TALK
 15:10 ~ 16:10|편하게 네트워킹
-16:10 |마무리
+16:10 ~ 16:30|마무리
 
 
 ### 참석동아리 리스트
 
 동아리명|스터디분야|활동페이지
 --------------|----------|----------
--ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
--CLUG|리눅스,유닉스|http://clug.kr
--EDOC|??|??
--GoN|보안|gon.kaist.ac.kr
--Guardian|보안|http://csguard.snu.ac.ke:9888
--Hacker|프로그래밍|http://www.khuhacker.com/
--HeXA|보안|http://hexa-unist.github.io/
--IGRUS|프로그래밍|igrus.inha.ac.kr
--KERT|보안|www.kert.or.kr
--NEXTERS|창업,앱개발|https://www.facebook.com/Nexterspage
--REAL|창업,앱개발|https://www.facebook.com/startreal.org/?fref=ts
--Release|프로그래밍|https://www.facebook.com/SGRelease/?fref=ts
--RUN|??|??
--SCCC|알고리즘|-
--SOPT|창업,앱개발|https://www.facebook.com/clubsopt/?fref=ts
--System Consultant Group|웹개발|http://scg.skku.ac.kr
--YBigTa|빅데이터|https://www.facebook.com/yonseibigdata
--Zeropage|프로그래밍|zeropage.org
--모르고리즘|알고리즘|-
--투빅스|머신러닝|-
+ALOHA|알고리즘|https://www.facebook.com/HYUALOHA
+A.N.S.I.|알고리즘|http://cafe.naver.com/ajouansi
+CLUG|리눅스,유닉스|http://clug.kr
+EDOC|웹|http://ewhadoccoding.slack.com
+EOS|앱개발|http://hyu-eos.tistory.com/category
+GoN|보안|gon.kaist.ac.kr
+Guardian|보안|http://csguard.snu.ac.ke:9888
+Hacker|프로그래밍|http://www.khuhacker.com/
+HeXA|보안|http://hexa-unist.github.io/
+IGRUS|프로그래밍|igrus.inha.ac.kr
+KERT|보안|www.kert.or.kr
+KHLUG|리눅스,아두이노 등|http://www.khlug.org
+NEXTERS|창업,앱개발|https://www.facebook.com/Nexterspage
+REAL|창업,앱개발|https://www.facebook.com/startreal.org/?fref=ts
+Release|프로그래밍|https://www.facebook.com/SGRelease/?fref=ts
+RUN|알고리즘|-
+SCCC|알고리즘|https://www.facebook.com/SSUSCCC/?fref=ts
+SOPT|창업,앱개발|https://www.facebook.com/clubsopt/?fref=ts
+System Consultant Group|웹개발|http://scg.skku.ac.kr
+YAPP|창업,앱개발|https://www.facebook.com/yapp.co.kr/?fref=ts
+YBigTa|빅데이터|https://www.facebook.com/yonseibigdata
+Zeropage|프로그래밍|zeropage.org
+모르고리즘|알고리즘|-
+투빅스|머신러닝|http://www.datamarket.kr/xe/
+ISTEAM|프로그래밍|-
+
+
 
 
